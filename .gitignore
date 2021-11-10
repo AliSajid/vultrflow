@@ -205,3 +205,4 @@ terraform.rc
 #
 kube_config
 *.hcl
+**/*.csv
